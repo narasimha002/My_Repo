@@ -1,0 +1,4 @@
+ This is test file4.txt 
+welcome to page 
+:wq!
+
